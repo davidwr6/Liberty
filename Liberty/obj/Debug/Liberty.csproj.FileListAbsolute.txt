@@ -1,0 +1,6 @@
+C:\David\Work\PetProject\Liberty\Liberty\bin\Debug\Liberty.exe.config
+C:\David\Work\PetProject\Liberty\Liberty\bin\Debug\Liberty.exe
+C:\David\Work\PetProject\Liberty\Liberty\bin\Debug\Liberty.pdb
+C:\David\Work\PetProject\Liberty\Liberty\obj\Debug\Liberty.csprojResolveAssemblyReference.cache
+C:\David\Work\PetProject\Liberty\Liberty\obj\Debug\Liberty.exe
+C:\David\Work\PetProject\Liberty\Liberty\obj\Debug\Liberty.pdb
