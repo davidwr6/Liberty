@@ -11,6 +11,7 @@ namespace Liberty
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("I have added some changes");
             Console.ReadLine();
         }
     }
