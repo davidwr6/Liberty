@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\David\Work\PetProject\Liberty\Liberty.Tests\bin\Debug\Liberty.Tests.dll</TopNode>
+  <SelectedNode>[0-1001]Liberty.Tests.Class1.Should_Do_Something</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\David\Work\PetProject\Liberty\Liberty.Tests\bin\Debug\Liberty.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]Liberty" Expanded="true" />
+    <Node UniqueName="[0-1004]Liberty.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]Liberty.Tests.Class1" Expanded="true" />
+  </Nodes>
+</VisualState>
