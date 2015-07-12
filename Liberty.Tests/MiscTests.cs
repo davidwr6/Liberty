@@ -24,7 +24,7 @@ namespace Liberty.Tests
             int numb1 = 4;
             int numb2 = 23;
 
-            Assert.That(isMultipleOf2(numb1), Is.True);
+            Assert.That(isMultipleOf2(numb1), Is.False);
             Assert.That(isMultipleOf2(numb2), Is.False);
         }
     }
