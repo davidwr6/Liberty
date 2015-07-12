@@ -1,0 +1,5 @@
+C:\David\Work\PetProject\Liberty\Liberty.Tests\bin\Debug\Liberty.Tests.dll
+C:\David\Work\PetProject\Liberty\Liberty.Tests\bin\Debug\nunit.framework.dll
+C:\David\Work\PetProject\Liberty\Liberty.Tests\bin\Debug\nunit.framework.xml
+C:\David\Work\PetProject\Liberty\Liberty.Tests\obj\Debug\Liberty.Tests.csprojResolveAssemblyReference.cache
+C:\David\Work\PetProject\Liberty\Liberty.Tests\obj\Debug\Liberty.Tests.dll

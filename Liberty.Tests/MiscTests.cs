@@ -8,7 +8,7 @@ using NUnit.Framework;
 namespace Liberty.Tests
 {
     [TestFixture]
-    public class Class1
+    public class MiscTests
     {
         [SetUp]
         public void Setup()
